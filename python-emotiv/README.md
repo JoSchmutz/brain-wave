@@ -35,8 +35,8 @@ Dependencies
 ============
 
 * [pyusb](http://sourceforge.net/projects/pyusb) (Version >= 1.0)
-* [pycrypto](https://www.dlitz.net/software/pycrypto)
-* numpy
+* [pycrypto](https://www.dlitz.net/software/pycrypto or https://pypi.python.org/pypi/pycrypto)
+* numpy http://www.scipy.org/install.html (follow the instructions, it installs numpy, scipy...)
 * scipy
 * matplotlib (For data analysis scripts under utils/)
 * BeagleBone Black GPIO (For SSVEP BCI in examples/)
